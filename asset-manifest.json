@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top-notch-news/static/css/main.74571a41.chunk.css",
+    "main.js": "/top-notch-news/static/js/main.a9c1fa13.chunk.js",
+    "main.js.map": "/top-notch-news/static/js/main.a9c1fa13.chunk.js.map",
+    "runtime-main.js": "/top-notch-news/static/js/runtime-main.9bcf4791.js",
+    "runtime-main.js.map": "/top-notch-news/static/js/runtime-main.9bcf4791.js.map",
+    "static/js/2.f41c266c.chunk.js": "/top-notch-news/static/js/2.f41c266c.chunk.js",
+    "static/js/2.f41c266c.chunk.js.map": "/top-notch-news/static/js/2.f41c266c.chunk.js.map",
+    "static/js/3.10590b3e.chunk.js": "/top-notch-news/static/js/3.10590b3e.chunk.js",
+    "static/js/3.10590b3e.chunk.js.map": "/top-notch-news/static/js/3.10590b3e.chunk.js.map",
+    "index.html": "/top-notch-news/index.html",
+    "static/css/main.74571a41.chunk.css.map": "/top-notch-news/static/css/main.74571a41.chunk.css.map",
+    "static/js/2.f41c266c.chunk.js.LICENSE.txt": "/top-notch-news/static/js/2.f41c266c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bcf4791.js",
+    "static/js/2.f41c266c.chunk.js",
+    "static/css/main.74571a41.chunk.css",
+    "static/js/main.a9c1fa13.chunk.js"
+  ]
+}
